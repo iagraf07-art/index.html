@@ -14,6 +14,6 @@
 <font size="4pt">
     <p align="left">Люблю катю свою любимую очень сильно <i>она самая лучшая</i>я не знаю что писать<p align="left">но я кароче тя люблю малая<b> хех малышечка</b>,ДАВАЙ ТЕБЯ ПОЦЕЛУЮ МАЛАЯ</p>
 </font> 
-<img src="images/my-photo.jpg" alt="myna (2)" width="300">
+<img src="images/my-photo.jpg" alt="1 сайт/myna (2).jpg width="300">
 </body>
 </html>
